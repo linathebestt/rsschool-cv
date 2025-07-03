@@ -1,2 +1,2 @@
 # rsschool-cv
-https://llinaaks.github.io/rsschool-cv/cv
+ https://github.com/linathebestt/rsschool-cv.git
