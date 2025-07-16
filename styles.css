@@ -116,10 +116,12 @@ background-size: cover;
 
    .insta{
     width: 45px;
+    margin-bottom: -20px;
    }
 
    .tg{
     width: 35px;
+    margin-top: -50px;
    }
 
    .rsschool-logo{
@@ -155,9 +157,9 @@ background-size: cover;
    .container-nn{
     display: flex;
   flex-direction: column;
-  gap: 27px;
-  margin-left: 90px;
-  margin-top: -70px;
+  gap: 30px;
+  margin-left: 120px;
+  margin-top: -95px;
    }
 
    .ifo-about-me{
@@ -231,3 +233,36 @@ background-size: cover;
         .nav-menu a:hover::after {
             width: 100%;
         }
+
+         ul{
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+         }
+
+         .projects{
+           font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: rgba(0, 1, 9, 0.626);
+    margin-top: -60px;
+         }
+
+          .line-3 {
+     border-bottom: 3px solid rgb(0, 0, 0); 
+     margin-bottom: 100px;
+   }
+
+    .line-4 {
+     border-bottom: 3px solid rgb(0, 0, 0); 
+     margin-bottom: 110px;
+   }
+
+
+   .code{
+     font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: rgba(0, 1, 9, 0.626);
+    margin-top: -60px;
+   }
