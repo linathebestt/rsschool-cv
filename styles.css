@@ -116,10 +116,12 @@ background-size: cover;
 
    .insta{
     width: 45px;
+    margin-bottom: -20px;
    }
 
    .tg{
     width: 35px;
+    margin-top: -50px;
    }
 
    .rsschool-logo{
@@ -155,9 +157,9 @@ background-size: cover;
    .container-nn{
     display: flex;
   flex-direction: column;
-  gap: 27px;
-  margin-left: 90px;
-  margin-top: -70px;
+  gap: 30px;
+  margin-left: 120px;
+  margin-top: -95px;
    }
 
    .ifo-about-me{
@@ -231,3 +233,9 @@ background-size: cover;
         .nav-menu a:hover::after {
             width: 100%;
         }
+
+         ul{
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+         }
