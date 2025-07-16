@@ -239,3 +239,30 @@ background-size: cover;
             flex-direction: column;
             gap: 30px;
          }
+
+         .projects{
+           font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: rgba(0, 1, 9, 0.626);
+    margin-top: -60px;
+         }
+
+          .line-3 {
+     border-bottom: 3px solid rgb(0, 0, 0); 
+     margin-bottom: 100px;
+   }
+
+    .line-4 {
+     border-bottom: 3px solid rgb(0, 0, 0); 
+     margin-bottom: 110px;
+   }
+
+
+   .code{
+     font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: rgba(0, 1, 9, 0.626);
+    margin-top: -60px;
+   }
